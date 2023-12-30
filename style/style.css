@@ -1,0 +1,28 @@
+@charset "UTC-8";
+
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parent{
+    display: flex;
+}
+h1{
+    text-align: center;
+    margin: 50px;
+}
+h2{
+    text-align: end;
+}
+p{
+    margin: 8px;
+}
+.box{
+    height: 180px;
+    width: 320px;
+    padding: 8px;
+    margin: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
